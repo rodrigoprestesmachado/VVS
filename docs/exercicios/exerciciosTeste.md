@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercício testes de desenvolvimento
+title: Exercícios
 parent: Teste de desenvolvimento
 nav_order: 18
 ---
