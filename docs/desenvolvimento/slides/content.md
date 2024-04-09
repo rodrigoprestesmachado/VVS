@@ -1,4 +1,4 @@
-<!-- .slide:  data-background-opacity="0.1" data-background-image="img/title.jpg"
+<!-- .slide:  data-background-opacity="0.3" data-background-image="img/title.jpg"
 data-transition="convex"  -->
 # Teste de Desenvolvimento
 <!-- .element: style="margin-bottom:100px; font-size: 50px; color:white; font-family: Marker Felt;" -->
