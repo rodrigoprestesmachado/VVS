@@ -4,7 +4,7 @@ title: Configuração do ambiente
 nav_order: 2
 ---
 
-# Configuração do ambiente 🛠️
+# Configuração do ambiente
 
 Essa página tem o objetivo de orientar sobre a instalação das ferramentas que
 serão utilizadas na disciplina de Verificação e Validação de Sistemas.
@@ -76,8 +76,7 @@ Para ter certeza que o git esteja instalado corretamente digite `git --version`.
 Em um determinado momento da disciplina será necessário instalar o
 [Docker](https://docs.docker.com/get-docker/) na sua máquina.
 Depois de instalar o Docker, para testar podemos baixar uma imagem do Ubuntu por
- meio do comando
- [pull](https://docs.docker.com/engine/reference/commandline/pull/):
+meio do comando [pull](https://docs.docker.com/engine/reference/commandline/pull/):
 
     docker pull ubuntu
 
@@ -95,7 +94,7 @@ ubuntu              latest              4e2eef94cd6b        2 weeks ago         
 ```
 
 Assim, para criar um container do Ubuntu a partir da imagem que foi baixada,
-execute o comando 
+execute o comando
 [run](https://docs.docker.com/engine/reference/commandline/run/):
 
     docker run --name vvs -it -p 127.0.0.1:80:9080 ubuntu
