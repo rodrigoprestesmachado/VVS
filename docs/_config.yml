@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 
-favicon_ico: "/imgs/favicon.png"
+favicon_ico: "/imgs/fav.png"
 
 aux_links:
   "Moodle":

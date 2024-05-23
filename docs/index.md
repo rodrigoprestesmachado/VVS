@@ -6,7 +6,7 @@ nav_order: 1
 
 # Verificação e Validação de Sistemas
 
-[![Discord](https://img.shields.io/discord/717400933075648574?style=flat&label=Discord%20%23vvs&color=%235F86AF)](https://discord.gg/u2cCc2dVhj)
+[![Static Badge](https://img.shields.io/badge/Discord%20-%20%23vvs%20-%20%237792C8)](https://discord.gg/u2cCc2dVhj)
 
 Conteúdo da disciplina de Verificação e Validação de Sistemas do curso de
 Sistemas para Internet do [IFRS](http://ifrs.edu.br) em
