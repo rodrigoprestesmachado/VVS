@@ -273,6 +273,14 @@ public class EmailServiceUnitTest {
 }
 ```
 
+## Exemplos
+
+Para se obter o código completo dos exemplos dos Mocks acima, por favor acesse:
+{: .fs-3 }
+
+    git clone -b dev https://github.com/rodrigoprestesmachado/vvs
+    code vvs/exemplos/mockito/
+
 ## Teste seus conhecimentos 🧠
 
 <center>
@@ -284,19 +292,10 @@ public class EmailServiceUnitTest {
 </center>
 {: .fs-3 }
 
-## Exemplos
-
-Para se obter o código completo dos exemplos dos Mocks acima, por favor acesse:
-{: .fs-3 }
-
-    git clone -b dev https://github.com/rodrigoprestesmachado/vvs
-    code vvs/exemplos/mockito/
-
 ## Referências
 
 * Mockito framework site. Disponível em: [https://site.mockito.org](https://site.mockito.org).
 {: .fs-3 }
-
 
 <center>
     <a href="rpmhub.dev" target="blanck"><img src="../imgs/logo.png" alt="Rodrigo Prestes Machado" width="3%" height="3%" border=0 style="border:0; text-decoration:none; outline:none"></a><br/>
